@@ -1,0 +1,6 @@
+flood_frames/
+.ipynb_checkpoints/
+*.mp4
+**/*.DS_Store
+**/*.spv
+target/

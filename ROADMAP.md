@@ -1,0 +1,6 @@
+- Make NS dimensionless
+- Correct edge boundaries
+- Object boundaries as textures
+- Implement viscosity 
+- Implement surface tension
+- Fix TODOs
